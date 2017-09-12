@@ -4,7 +4,7 @@ body {
 }
 .container {
   min-height: 600px;
-  min-width: 400px;
+  min-width: 100%;
   background-image: url(John_Harvard_Statue.jpg);
   background-size: cover;
   padding: 50px;
